@@ -1,0 +1,4 @@
+PEÑA AZULGRANA CALETA OLIVIA
+Sitio listo para revisión y publicación en GitHub Pages.
+Subí index.html, logo-pena.jpg y la carpeta fotos/ al mismo nivel en un repositorio nuevo.
+Antes de publicar, confirmá la autorización para difundir todas las fotos, especialmente de menores.
